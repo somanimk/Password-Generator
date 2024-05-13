@@ -16,8 +16,7 @@ Designed and developed a web application that generates random passwords based o
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
+- **LinkedIn** - [Mayank Somani](https://www.linkedin.com/in/mayanksomani/)
 
 ## 📌 Acknowledgments
 
